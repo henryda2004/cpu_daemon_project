@@ -1,0 +1,21 @@
+# ninja log v6
+0	18	1748236694377276943	CMakeFiles/cpu_daemon.dir/main.c.o	3d60089f71537370
+0	14	1748236730024283877	cpu_daemon	d61ad62c5b874b04
+1	17	1748236694378276943	CMakeFiles/cpu_daemon.dir/notifier.c.o	9dc40c8f7e9bfd16
+0	18	1748236694377276943	CMakeFiles/cpu_daemon.dir/temp_monitor.c.o	267eb89adf7d4712
+0	21	1748236694377276943	CMakeFiles/cpu_daemon.dir/daemon.c.o	6e1d939d07244f4d
+1	15	1748236694378276943	CMakeFiles/cpu_daemon.dir/cpu_stressor.c.o	5f93c60086cf47d9
+0	14	1748236953261701335	CMakeFiles/cpu_stressor.dir/cpu_stressor.c.o	fec80729cdaadaeb
+14	29	1748236953275701378	cpu_stressor	248cf7d014d4fea6
+1	3	1748237200332710306	clean	6037571510c507c3
+1	15	1748237200432710799	CMakeFiles/cpu_stressor.dir/cpu_stressor.c.o	fec80729cdaadaeb
+1	18	1748237200432710799	CMakeFiles/cpu_daemon.dir/notifier.c.o	9dc40c8f7e9bfd16
+0	18	1748237200431710794	CMakeFiles/cpu_daemon.dir/main.c.o	3d60089f71537370
+1	19	1748237200432710799	CMakeFiles/cpu_daemon.dir/temp_monitor.c.o	267eb89adf7d4712
+1	20	1748237200432710799	CMakeFiles/cpu_daemon.dir/daemon.c.o	6e1d939d07244f4d
+16	29	1748237200447710873	cpu_stressor	248cf7d014d4fea6
+20	34	1748237200451710893	cpu_daemon	d61ad62c5b874b04
+1	21	1748237418441905861	CMakeFiles/cpu_daemon.dir/temp_monitor.c.o	267eb89adf7d4712
+21	36	1748237418461905980	cpu_daemon	d61ad62c5b874b04
+0	20	1748240081162076124	CMakeFiles/cpu_daemon.dir/main.c.o	3d60089f71537370
+20	34	1748240081182076236	cpu_daemon	d61ad62c5b874b04
